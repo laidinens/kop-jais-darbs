@@ -1,21 +1,20 @@
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: center;
 }
 
 #otrais {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .pasvitrots {
   text-decoration: underline;
 }
 
-<table>
-<tr><th> gala </th><th> svars </th></tr> </th><th> cena </th></tr>  
-<tr><td> </td><td> </td></tr> 
-</table>
+th {
+    color: green;
+    }
