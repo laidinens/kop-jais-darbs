@@ -1,4 +1,3 @@
-<script>
     function cenaZina() {
     
     x = Number(document.forms["tabula"]["svarsC"].value);
