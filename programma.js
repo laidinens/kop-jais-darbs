@@ -1,4 +1,4 @@
-   function cenaZina() {
+ function cenaZina() {
     
     x = Number(document.forms["tabula"]["svarsC"].value);
     y = 6
